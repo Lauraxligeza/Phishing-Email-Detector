@@ -1,0 +1,12 @@
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Email datasets, review batches and saved models
+/data/
+/models/
+*.joblib
+
+# Review files downloaded into the project root
+/validation_reviews_*.json

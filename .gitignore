@@ -1,0 +1,8 @@
+/.venv/
+/data/
+/models/
+node_modules/
+__pycache__/
+*.py[cod]
+*.joblib
+/validation_reviews_*.json
